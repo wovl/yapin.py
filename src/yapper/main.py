@@ -1,4 +1,4 @@
-"""Yapin’ bot library for Python. One file, standard library only, Python 3.9+. 
+"""Yapin’ bot library for Python. One file, standard library only, Python 3.9+.
 
     import yapper
 
