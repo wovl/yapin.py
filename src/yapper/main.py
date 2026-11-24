@@ -2812,4 +2812,4 @@ async def _hand_out_voice_key(room, media_key):
         room.off("participant_connected", on_peer)
         room.off("participant_attributes_changed", on_attrs)
         room.off("data_received", on_data)
-    return stop
+    return stop 
